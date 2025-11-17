@@ -1,2 +1,2 @@
 # Flight-Analysis-Using-Python
-This project presents a comprehensive Exploratory Data Analysis (EDA) workflow designed to understand key patterns, trends, and anomalies within the dataset. It includes end-to-end data cleaning, handling missing values, detecting outliers, performing univariate and bivariate analysis, and visualizing insights using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn. The analysis highlights important relationships between variables, uncovers data distributions, and supports data-driven decision-making. This project serves as a strong foundation for further statistical modeling or machine learning tasks, showcasing practical EDA skills used in real-world analytics projects.
+
